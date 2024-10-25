@@ -1,0 +1,6 @@
+"Laravel Programming","This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.","images/laravel.png"
+".NET Programming","This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.","images/dot-net.png"
+"Spring Boot Programming","This is a longer card with supporting text below as a natural lead-in to additional content.","images/spring-boot.png"
+"Angular Programming","This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.","images/angular.png"
+"Lion","The lion is known as the king of the jungle. It is a large carnivorous feline that lives in Africa.","https://allimages.sgp1.digitaloceanspaces.com/tipeduvn/2022/08/1661561519_389_Hinh-nen-su-tu-trong-thien-nhien-hoang-da-dep.jpg"
+"Elephant","Elephants are the largest land animals on Earth, known for their intelligence and strong social bonds.","https://img1.kienthucvui.vn/uploads/2019/10/30/hinh-anh-con-voi_111945342.jpg"

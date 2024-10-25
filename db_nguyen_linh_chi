@@ -1,0 +1,10 @@
+CREATE DATABASE db_nguyen_linh_chi; 
+
+USE db_nguyen_linh_chi;
+
+CREATE TABLE Course (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Title VARCHAR(255) UNIQUE,
+    Description TEXT,
+    ImageUrl VARCHAR(255)
+);
